@@ -1,2 +1,0 @@
-/mention mp4 url type/https://github.com/nathanxluci4/malvin-database/raw/refs/heads/main/Media/alive.mp3
-/servar MENTION={ "contextInfo": { "forwardingScore": 999, "isForwarded": true }, "linkPreview": { "head": "NATHAN", "body": "NATHAN", "mediaType": 3, "thumbnail": "img url "sourceUrl": "https:https://www.instagram.com/n8than_16" } , "heartform": [ 99,0,99,0,99,0,99,0,99 ] }
